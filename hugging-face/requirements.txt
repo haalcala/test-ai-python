@@ -1,0 +1,6 @@
+starlette
+transformers
+datasets
+torch
+jupyter-console
+sklearn
